@@ -1,0 +1,19 @@
+# Celestial Chaos - N-body Visual Art Engine
+# GH200 Grace Hopper optimized
+
+# Physics simulation
+warp-lang>=1.11.0
+numpy>=1.24.0
+
+# Audio analysis
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Web streaming
+websockets>=12.0
+
+# Utilities
+scipy>=1.11.0
