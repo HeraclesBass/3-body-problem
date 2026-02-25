@@ -2,7 +2,7 @@
 
 ## Step-by-Step Installation
 
-### 1. Download OptiX SDK (On hercules or local machine)
+### 1. Download OptiX SDK (On your GPU server or local machine)
 
 **NVIDIA Developer Portal:**
 https://developer.nvidia.com/designworks/optix/downloads
@@ -22,7 +22,7 @@ NVIDIA-OptiX-SDK-8.1.0-linux-ARM64.sh
 ### 2. Transfer to GH200
 
 ```bash
-# From hercules (or wherever you downloaded it)
+# From the server (or wherever you downloaded it)
 scp -i ~/.ssh/your_key \
   ~/Downloads/NVIDIA-OptiX-SDK-8.1.0-linux-ARM64.sh \
   ubuntu@<GPU_HOST_IP>:~/
