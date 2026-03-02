@@ -67,3 +67,7 @@ The `docs/` directory includes 17 files covering:
 - Physics foundations (Lagrangian mechanics, potentials and fields, Aharonov-Bohm effect)
 - Architecture reference and code guide
 - NVIDIA Warp and OptiX integration guides
+
+---
+
+Built by [D. Michael Piscitelli](https://github.com/HeraclesBass) | [herakles.dev](https://herakles.dev)
