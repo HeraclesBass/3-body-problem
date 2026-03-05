@@ -70,4 +70,4 @@ The `docs/` directory includes 17 files covering:
 
 ---
 
-Built by [D. Michael Piscitelli](https://github.com/HeraclesBass) | [herakles.dev](https://herakles.dev)
+Built by [D. Michael Piscitelli](https://github.com/herakles-dev) | [herakles.dev](https://herakles.dev)
